@@ -1,4 +1,7 @@
 # RocketFly
+
+Attention, when the game starts, the rocket is behind the camera!
+
 ## Description
 
 Completed as part of a test task. Tasks:
@@ -11,11 +14,12 @@ Completed as part of a test task. Tasks:
  
  ## Control
 
- | Action | Key |
+ | Key | Action|
 |----------|----------|
 | Z		 | Decrease Traction   | 
 | X			| Add Traction   |
 | Space   | Next Step  | 
+| Mouse   | Look  | 
 
 ## Implemented
 
